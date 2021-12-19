@@ -1,7 +1,7 @@
 # Smart-street-light
 /************************ SMART STREET LIGHT *******************************
  *  *****************************************************************************
- * 
+
  * This is a open source project made by TRIPTI LOHANI 
  * 
  * The SMART STREET LIGHT project is a advanced street light which consumes less power than traditional street light as it detects the presence of any pedestrian or vehicle on the road which 
